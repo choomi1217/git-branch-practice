@@ -28,3 +28,16 @@ git push origin test-feature-1
 4. master 브랜치로 머지
 
 
+### 코드리뷰 요청 방법
+![1](./how-to-code-review1.png)
+![2](./how-to-code-review2.png)
+![3](./how-to-code-review3.png)
+![4](./how-to-code-review4.png)
+![5](./how-to-code-review5.png)
+- 코멘트는 자세히 남기는 것이 좋음
+![6](./how-to-code-review6.png)
+- 코드 리뷰를 할 사람을 선택
+![7](./choice-reviewers.png)
+
+### 머지 완료
+![8](./complete-merge.png)
